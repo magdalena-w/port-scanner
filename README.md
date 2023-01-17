@@ -2,7 +2,7 @@
 A simple Python script that scans open host ports. The script compares the newly made scan with the reference set. When differences are detected, it sends an e-mail notification.
 
 ## Application launch instructions
-**Step 1:** Make sure you have Python installed on your computer. You can check this by typing `python --version` in the console or command prompt.
+**Step 1:** Make sure you have Python installed on your computer. You can check this by typing `python --version` in the console or command prompt. \
 **Step 2:** Download the contents of the repository.
 **Step 3:** Open the console or command prompt and navigate to the folder you just created `cd [path_to_folder]`.
 **Step 4:** Create a virtual environment to isolate the installed libraries from other interpreter instances.
